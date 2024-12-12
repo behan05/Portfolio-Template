@@ -29,7 +29,7 @@ This is a generic portfolio website created for practice purposes. It showcases 
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/yourusername/portfolio-template.git
+   git clone https://github.com/behan05/Portfolio-Template.git
 ```
 ## Navigate to the Project Directory
 cd portfolio-template
